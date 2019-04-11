@@ -2,6 +2,8 @@
 
 if (9==="9"){
   console.log("equal using triple =")
+} else if (9=="9") {
+  console.log("equal using double =")
 } else {
-  console.log("eqaual using double =")
+  console.log("none are =")
 }
