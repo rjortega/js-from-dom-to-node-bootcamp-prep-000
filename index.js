@@ -5,4 +5,3 @@ if number(9==="9"){
 } else {
   console.log("eqaual using double =")
 }
-
