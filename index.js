@@ -1,8 +1,8 @@
 
 
-if (9==="9"){
+if ("nine"==="Nine"){
   console.log("equal using triple =")
-} else if (9=="9") {
+} else if ("nine"=="Nine") {
   console.log("equal using double =")
 } else {
   console.log("none are =")
